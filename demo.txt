@@ -1,0 +1,5 @@
+This file content is written using vi command
+
+click esc and :w enter 
+
+Then again esc and :q to quit with changes
